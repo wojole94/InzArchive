@@ -1,0 +1,10 @@
+pl\polsl\woleszko\fuels\model\types\Entity.class
+pl\polsl\woleszko\fuels_dsmock\route\RouteConfig.class
+pl\polsl\woleszko\fuels_dsmock\route\utils\BindyCsvDataFormat.class
+pl\polsl\woleszko\fuels_dsmock\route\RouteConfig$1.class
+pl\polsl\woleszko\fuels\model\types\RefuelEntity.class
+pl\polsl\woleszko\fuels_dsmock\route\utils\BindyCsvFactory.class
+pl\polsl\woleszko\fuels\model\types\NozzleMeasuresEntity.class
+pl\polsl\woleszko\fuels\model\types\TankMeasuresEntity.class
+pl\polsl\woleszko\fuels\model\types\ListHolder.class
+pl\polsl\woleszko\fuels_dsmock\main\Main.class
